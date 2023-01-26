@@ -1,4 +1,3 @@
-import { useRef } from 'react';
 import './style-components/reset.css';
 import './style-components/style-view.css';
 
